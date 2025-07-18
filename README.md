@@ -2,7 +2,7 @@
 
 Food_OrderBot is a voice-enabled restaurant ordering system that allows users to easily order mixed food items, confirm their orders through speech, and choose between cash or online payment. For online payments, a QR code is displayed for quick scanning.
 ________________________________________
-Features
+Features:
 
 •	Voice-guided menu presentation and ordering
 
@@ -14,7 +14,7 @@ Features
 
 •	Displays your own custom QR code for seamless payment integration
 ________________________________________
-How to Use
+How to Use:
 1.	Run the script. The menu will be read aloud and displayed.
 2.	Enter the food items you want to order (comma-separated).
 3.	Confirm your order via voice prompt and input.
