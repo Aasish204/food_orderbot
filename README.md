@@ -1,4 +1,4 @@
-# Restaurant-Management-System-.py
+# Restaurant-Management-System
 
 This is a simple Python-based Restaurant Order System that allows users to select items from a menu, confirm their order, and choose a payment method. It also features text-to-speech functionality and generates a QR code for online payment.
 
